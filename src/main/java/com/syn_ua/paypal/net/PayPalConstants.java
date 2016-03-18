@@ -1,7 +1,7 @@
 package com.syn_ua.paypal.net;
 
 /**
- * Created by Dryhulias on 23.12.2015.
+ * Created by Drihulias on 23.12.2015.
  */
 public class PayPalConstants {
     public static final String AUTH_V2_URL = "/v1/oauth2/token";

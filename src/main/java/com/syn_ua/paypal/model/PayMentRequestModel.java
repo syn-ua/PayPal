@@ -5,7 +5,7 @@ import com.google.gson.annotations.SerializedName;
 import java.util.List;
 
 /**
- * Created by Dryhulias on 23.12.2015.
+ * Created by Drihulias on 23.12.2015.
  */
 public class PayMentRequestModel {
    private String intent;

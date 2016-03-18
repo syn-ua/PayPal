@@ -8,7 +8,7 @@ import javax.inject.Singleton;
 import dagger.Component;
 
 /**
- * Created by Dryhulias on 23.12.2015.
+ * Created by Drihulias on 23.12.2015.
  */
 @Singleton
 @Component(modules = {RetrofitClientModule.class})

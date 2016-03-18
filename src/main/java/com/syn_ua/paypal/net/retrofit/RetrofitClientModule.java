@@ -15,7 +15,7 @@ import retrofit.Retrofit;
 import retrofit.RxJavaCallAdapterFactory;
 
 /**
- * Created by Dryhulias on 22.12.2015.
+ * Created by Drihulias on 22.12.2015.
  */
 @Module
 public class RetrofitClientModule {

@@ -1,7 +1,7 @@
 package com.syn_ua.paypal.helper;
 
 /**
- * Created by Dryhulias on 29.12.2015.
+ * Created by Drihulias on 29.12.2015.
  */
 public class Base64Encoder {
 

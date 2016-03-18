@@ -1,7 +1,7 @@
 package com.syn_ua.paypal.model;
 
 /**
- * Created by Dryhulias on 23.12.2015.
+ * Created by Drihulias on 23.12.2015.
  */
 public class Amount {
     private String total;
